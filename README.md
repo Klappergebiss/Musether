@@ -1,4 +1,4 @@
-TDAudioStreamer
+Musether
 ===============
 
-Library for streaming audio over NSStream
+iOS-App for listening music together with friends. 
