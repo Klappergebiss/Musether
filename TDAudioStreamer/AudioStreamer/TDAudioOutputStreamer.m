@@ -4,7 +4,7 @@
 //
 //  Created by Tony DiPasquale on 11/14/13.
 //  Copyright (c) 2013 Tony DiPasquale. The MIT License (MIT).
-//  Changed, extented and optimized by Tim Engel 2016.
+//  Modified, extented and optimized by Tim Engel 2016.
 //
 
 #import <AVFoundation/AVFoundation.h>
